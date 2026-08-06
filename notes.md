@@ -1,0 +1,5 @@
+- NextJs
+- shadcn
+- Tanstack 
+- Prisma 
+- Neon - Database
